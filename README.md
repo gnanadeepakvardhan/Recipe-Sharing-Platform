@@ -93,7 +93,7 @@ npm install
 3. Create `.env` file:
 ```bash
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/recipe-sharing
+MONGODB_URI=mongodb-uri
 JWT_SECRET=your-secret-key-change-this-in-production
 NODE_ENV=development
 ```
@@ -329,3 +329,4 @@ After completing this project, you'll have learned:
 ---
 
 **Happy Cooking! 🍳**
+
